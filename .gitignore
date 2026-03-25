@@ -1,0 +1,7 @@
+API_KEY.env
+.env
+security.db
+*.db
+store/
+__pycache__/
+*.pyc

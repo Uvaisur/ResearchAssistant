@@ -1,0 +1,427 @@
+--- METADATA ---
+ID: FP-NODE-001
+TAGS: First Principles, Core Definition, Fundamental Thinking
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+First principles thinking is the practice of breaking down complex problems
+into their most basic, irreducible truths and reasoning upward from there
+to build new understanding or solutions.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why People Don't Think This Way Naturally
+The human brain defaults to reasoning by analogy — copying what worked before.
+First principles is effortful because it demands that every assumption be
+justified from scratch rather than inherited.
+# PATTERN: The Reconstruction Loop
+Strip assumptions → identify bedrock facts → rebuild solution upward.
+Every step in the rebuild must be justified by a fundamental truth, not
+by convention or precedent.
+# ORIGIN
+Aristotle defined a first principle as "the first basis from which a thing
+is known." Elon Musk popularized its modern application: boiling things down
+to fundamental truths and reasoning up from there rather than by analogy.
+--- DATA POINTS ---
+- Key Question: What do we know for certain is true?
+- Key Question: What assumptions are we making that may not be necessary?
+- Key Question: If we stripped everything away, what would remain?
+- Characteristic: Challenges inherited knowledge
+- Characteristic: Separates facts from beliefs
+- Characteristic: Constructs ideas from ground up
+- Characteristic: Slow and effortful but produces genuinely novel insights
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-002
+TAGS: Root Cause Analysis, RCA, Problem Solving, Diagnosis
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Root cause analysis is a problem-solving method that identifies the
+underlying cause of a problem rather than treating its symptoms. It asks
+not just what happened but why it happened and why that happened.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Surface vs Deep Diagnosis
+Most problem solving stops at the symptom level because symptoms are visible
+and causes are hidden. RCA refuses to accept any explanation that still has
+a "why" unanswered beneath it.
+# PATTERN: The 5 Whys Chain
+Ask why five times in succession. Each answer becomes the subject of the
+next why. The fifth answer typically reveals a systemic cause rather than
+a surface event.
+# DIFFERENCE FROM FIRST PRINCIPLES
+RCA is diagnostic — it works backward from a known problem.
+First principles thinking is generative — it works forward from known facts
+to build new solutions. Both reject surface explanations and demand depth.
+--- DATA POINTS ---
+- Techniques: 5 Whys, Fishbone (Ishikawa) Diagram, Fault Tree Analysis
+- Direction: Backward from known problem
+- Goal: Prevent recurrence by fixing the actual cause
+- Related: First principles thinking, systems thinking
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-003
+TAGS: Pattern Recognition, Analysis, Scientific Discovery
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Pattern recognition is the cognitive ability to identify regularities,
+repetitions, and structures across data, events, or observations. It is
+the foundation of scientific discovery, strategic thinking, and creative insight.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Patterns Matter
+Reality repeats itself at different scales and across different domains.
+The same underlying principle manifests in physics, economics, biology,
+and human behavior. Pattern recognition reveals these hidden connections.
+# PATTERN: Cross-Domain Transfer
+Once a pattern is identified in one domain it can be applied to another.
+Evolution in biology becomes iteration in software. Supply and demand in
+economics becomes attention in social media.
+# TYPES OF PATTERNS
+Structural: recurring shapes or relationships such as networks and hierarchies.
+Temporal: events that repeat over time such as cycles, trends, and seasonality.
+Causal: if X then Y cause and effect chains.
+Analogical: different domains sharing the same underlying logic.
+Anomaly: what breaks the pattern is often more revealing than the pattern itself.
+--- DATA POINTS ---
+- Application: Scientific discovery
+- Application: Strategic planning
+- Application: Creative problem solving
+- Key Insight: Anomalies reveal more than patterns themselves
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-004
+TAGS: Mental Models, Cognitive Frameworks, Decision Making
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Mental models are simplified representations of how something works. They
+are the cognitive frameworks through which people interpret the world and
+make decisions under uncertainty.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Mental Models Matter
+No one can hold the full complexity of reality in their mind. Mental models
+are compression tools — they sacrifice detail for usability. The quality of
+your decisions depends on the quality of your mental models.
+# PATTERN: The Latticework
+Charlie Munger advocates building a latticework of mental models from
+multiple disciplines. A problem viewed through only one model produces
+narrow solutions. Viewed through many models it reveals deeper structure.
+# KEY MENTAL MODELS
+Supply and demand explains resource allocation across all domains.
+Natural selection explains how systems improve through variation and pressure.
+Compounding explains exponential growth in finance, knowledge, and habits.
+Second-order effects explain why obvious solutions often backfire.
+The map is not the territory explains why models always distort reality.
+--- DATA POINTS ---
+- Origin: Charlie Munger latticework concept
+- Key Principle: More models = better decisions
+- Risk: Over-relying on one model produces blind spots
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-005
+TAGS: Inversion Thinking, Problem Solving, Charlie Munger
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Inversion thinking approaches a problem by considering its opposite.
+Instead of asking how to succeed, ask what would cause failure. Instead
+of what makes a good product, ask what makes a product people hate.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Inversion Works
+The brain is better at identifying threats and failures than at generating
+positive solutions. Inversion exploits this by deliberately thinking about
+the negative, then reversing the findings into positive insight.
+# PATTERN: Failure Pre-Mortem
+Before starting a project imagine it has already failed catastrophically.
+List every reason it could have failed. Then build defenses against each
+reason before the project even starts.
+# CONNECTION TO FIRST PRINCIPLES
+Inversion is a direction of travel within first principles reasoning.
+It forces examination of assumptions from the opposite direction,
+revealing blind spots that forward reasoning consistently misses.
+--- DATA POINTS ---
+- Popularized by: Charlie Munger
+- Key Question: What would cause this to fail?
+- Key Question: What makes the worst version of this?
+- Application: Risk analysis, product design, strategy
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-006
+TAGS: Systems Thinking, Emergence, Complex Systems
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Systems thinking is the discipline of understanding how components of a
+system interact, influence each other, and produce emergent behavior that
+cannot be understood by looking at parts in isolation.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Reductionism Alone Fails
+Breaking a system into parts reveals the parts but destroys the relationships.
+A car engine understood part by part does not explain traffic. Systems
+thinking restores the relationships that reductionism removes.
+# PATTERN: Emergence
+The whole behaves differently from the sum of its parts. Traffic jams
+emerge from individual driving decisions. Market crashes emerge from
+individual investment decisions. Pandemics emerge from individual contact.
+# COMPLEMENT TO FIRST PRINCIPLES
+First principles breaks things apart to find fundamentals.
+Systems thinking reassembles the relationships between fundamentals.
+A complete analytical framework uses both together.
+--- DATA POINTS ---
+- Key Concept: Emergence — whole behaves differently from sum of parts
+- Key Concept: Feedback loops — outputs become inputs
+- Key Concept: Nonlinearity — small changes produce large effects
+- Complement: Reductionism finds parts, systems thinking finds relationships
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-007
+TAGS: Brainstorming, SCAMPER, Idea Generation, Creativity
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+SCAMPER is a structured brainstorming checklist that forces creative
+perspectives on any subject by systematically applying seven thinking
+lenses to a problem or existing solution.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Structure Helps Creativity
+Unstructured brainstorming defaults to familiar ideas. SCAMPER forces
+the brain into unfamiliar angles by making each lens mandatory.
+# PATTERN: Forced Perspective Rotation
+Each SCAMPER lens is a forced question that cannot be skipped.
+This prevents the group from stopping at comfortable ideas.
+# THE SEVEN LENSES
+Substitute: What components can be replaced with something else?
+Combine: What elements can be merged to create something new?
+Adapt: What can be modified or borrowed from another context?
+Modify/Magnify/Minimize: What changes if scale or form changes?
+Put to other uses: What other applications does this have?
+Eliminate: What happens if a component is removed entirely?
+Reverse/Rearrange: What if the sequence or orientation is flipped?
+--- DATA POINTS ---
+- Type: Structured brainstorming checklist
+- Best for: Improving existing solutions
+- Strength: Forces non-obvious perspectives
+- Weakness: Less effective for completely new problem spaces
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-008
+TAGS: Six Thinking Hats, De Bono, Parallel Thinking, Brainstorming
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Edward de Bono's Six Thinking Hats assigns six distinct thinking modes
+to six metaphorical hats, forcing a group to examine a problem from
+multiple angles rather than letting one mode dominate.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Group Thinking Gets Stuck
+In groups, one mode of thinking — usually critical or emotional — dominates
+and crowds out others. Six Hats enforces parallel thinking where everyone
+applies the same lens simultaneously.
+# PATTERN: Sequential Lens Application
+The group puts on each hat in sequence. While wearing a hat everyone
+thinks only in that mode. This separates ego from thinking style and
+prevents defensive argumentation.
+# THE SIX HATS
+White: Pure facts and data only. What do we know?
+Red: Emotions and intuitions. How does this feel?
+Black: Critical judgment and caution. What could go wrong?
+Yellow: Optimism and best case. What is the upside?
+Green: Creativity and new ideas. What alternatives exist?
+Blue: Process control and meta-thinking. How are we thinking?
+--- DATA POINTS ---
+- Created by: Edward de Bono
+- Type: Parallel thinking framework
+- Best for: Group decision making and creative sessions
+- Key Benefit: Separates ego from thinking mode
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-009
+TAGS: Decomposition, Idea Generation, First Principles Method
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+The Decomposition Ladder is a structured first principles method that
+strips a problem to its irreducible facts and rebuilds a solution upward
+from those facts, challenging every assumption at each step.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: Why Inherited Solutions Are Expensive
+Existing solutions carry the cost of every assumption made by previous
+designers. Decomposition removes those inherited costs by starting from
+physical and logical bedrock.
+# PATTERN: Strip Then Rebuild
+Every assumption is made explicit before being challenged.
+What remains after all assumptions are removed is the true starting point.
+The rebuild asks at every step whether there is a better way given only
+what is known to be fundamentally true.
+# THE STEPS
+Step 1: State the problem in plain language.
+Step 2: List every assumption embedded in that statement.
+Step 3: Challenge each assumption — is this necessarily true?
+Step 4: Identify the irreducible facts that remain.
+Step 5: Rebuild the solution upward from those facts.
+Step 6: At each step ask if there is a better way given only known truths.
+--- DATA POINTS ---
+- Famous Example: Tesla battery cost — buying raw materials vs assembled packs
+- Famous Example: SpaceX — rethinking rocket cost from materials up
+- Key Output: Solutions unconstrained by inherited assumptions
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-010
+TAGS: Thought Experiments, Reasoning, Einstein, Newton
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Thought experiments are imaginary scenarios used to test the logical
+consequences of principles without requiring physical experimentation.
+They are a core tool of first principles reasoning.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: When Physical Experiments Are Impossible
+Some questions cannot be tested physically — either because of scale,
+cost, ethics, or physical impossibility. Thought experiments substitute
+logical necessity for empirical observation.
+# PATTERN: Isolate, Construct, Follow, Conclude
+Isolate one variable or principle. Construct an imaginary scenario that
+makes its consequences visible. Follow the logic without flinching.
+Ask what the conclusion implies about reality.
+# FAMOUS EXAMPLES
+Einstein imagined riding alongside a beam of light — leading to special relativity.
+Newton imagined a cannon on a mountain firing horizontally until the
+cannonball orbited the Earth — leading to the theory of gravity.
+Schrodinger imagined a cat in a box to expose the paradox of quantum superposition.
+--- DATA POINTS ---
+- Used by: Einstein, Newton, Schrodinger, Galileo, Darwin
+- Requirement: Logical consistency within the imagined scenario
+- Output: Conclusions that constrain what reality must be like
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-011
+TAGS: Confirmation Bias, Thinking Errors, Cognitive Bias
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Confirmation bias is the tendency to seek, interpret, and remember
+information in a way that confirms existing beliefs. It is one of the
+most pervasive obstacles to clear first principles thinking.
+--- CORE ANALYSIS ---
+# ROOT CAUSE: The Brain's Efficiency Problem
+The brain treats consistency as evidence of truth. Beliefs that have
+survived before feel safe. Challenging them requires energy the brain
+would rather save. Confirmation bias is the brain optimizing for comfort
+over accuracy.
+# PATTERN: The Echo Chamber Loop
+Seek confirming evidence → feel more certain → seek more confirming
+evidence → feel even more certain. The loop tightens until contradictory
+evidence feels like an attack rather than information.
+# HOW FIRST PRINCIPLES CORRECTS IT
+First principles demands that all assumptions be stated explicitly and
+then challenged. Making assumptions visible makes them harder to protect
+unconsciously. The discipline of justifying every step from bedrock
+breaks the confirmation loop.
+--- DATA POINTS ---
+- Risk Level: Very high in high-stakes decisions
+- Correction: State assumptions explicitly before defending them
+- Correction: Actively seek disconfirming evidence
+- Related Error: Motivated reasoning, sunk cost fallacy
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-012
+TAGS: Notable Thinkers, Feynman, Munger, Musk, Aristotle
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+Several notable thinkers have built their methods explicitly on first
+principles reasoning, each applying it to a different domain and producing
+distinctly different but structurally similar breakthroughs.
+--- CORE ANALYSIS ---
+# PATTERN: Domain Independence of First Principles
+The same method — strip to fundamentals, reason upward — produces
+breakthroughs in philosophy, physics, investing, and engineering.
+The domain changes but the structure of thinking does not.
+# ARISTOTLE
+Identified first principles as the foundation of logical demonstration.
+His Posterior Analytics defines scientific knowledge as derived from
+first principles through valid inference. The origin of the concept.
+# RICHARD FEYNMAN
+Insisted on understanding from first principles rather than received
+knowledge. His Feynman Technique mirrors the approach: explain in plain
+language, identify where explanation breaks down, return to source, rebuild.
+# CHARLIE MUNGER
+Built a latticework of mental models derived from first principles across
+multiple disciplines. His investing approach explicitly identifies the
+fundamental forces at work rather than following market convention.
+# ELON MUSK
+Describes first principles as the basis for SpaceX and Tesla.
+SpaceX: rethought rocket cost from raw materials up.
+Tesla: rethought battery cost from raw materials up.
+Both broke industry cost assumptions by refusing to accept inherited pricing.
+--- DATA POINTS ---
+- Aristotle: Philosophy and logic, 300 BC
+- Descartes: Philosophy, cogito ergo sum as bedrock certainty
+- Feynman: Physics and education, Feynman Technique
+- Munger: Investing, latticework of mental models
+- Musk: Engineering, SpaceX and Tesla cost revolutions
+- Shannon: Information theory derived entirely from first principles
+
+================================================================================
+
+--- METADATA ---
+ID: FP-NODE-013
+TAGS: Everyday Application, Finance, Health, Learning, Technology
+DATE: 2026-03-22
+CONFIDENCE: High
+--- SYNOPSIS ---
+First principles thinking applies directly to everyday domains including
+personal finance, health, learning, cooking, and technology adoption,
+producing insights that conventional advice misses.
+--- CORE ANALYSIS ---
+# PERSONAL FINANCE
+The fundamental truth: wealth accumulates when assets generate more value
+than liabilities consume. Every financial strategy is just a method to
+achieve that equation. Index funds, real estate, and side income are all
+implementations of the same first principle.
+# LEARNING
+The goal is durable transferable mental models, not accumulated facts.
+Understanding why something works is more valuable than memorizing that
+it works. Spaced repetition and retrieval practice are derived from this.
+# HEALTH
+Root cause analysis in health asks not what the symptom is but what
+system failure is producing the symptom. This shifts from symptom
+management to root cause intervention — the core tension in modern medicine.
+# TECHNOLOGY ADOPTION
+Pattern recognition shows new technologies follow consistent adoption curves.
+Innovators, early adopters, early majority, late majority, laggards.
+Recognizing where a technology sits predicts when to adopt, invest, or build.
+# COOKING
+First principles asks what food is doing at a chemical level.
+The Maillard reaction explains browning. Understanding it allows application
+beyond recipes to any high-heat cooking situation.
+--- DATA POINTS ---
+- Finance First Principle: Assets minus liabilities equals wealth direction
+- Learning First Principle: Models beat facts for long-term retention
+- Health First Principle: Treat causes not symptoms
+- Technology First Principle: Adoption follows predictable curves
+
+================================================================================
+END OF KNOWLEDGE BASE
+================================================================================

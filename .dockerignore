@@ -1,0 +1,7 @@
+store/
+__pycache__/
+*.pyc
+*.db
+.env
+API_KEY.env
+*.txt.bak

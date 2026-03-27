@@ -77,7 +77,7 @@ async def analyze(
         file_content = None
         file_name = None
         if file:
-            # VETO: Ensure the file actually has content before reading
+            #Ensure the file actually has content before reading
             raw = await file.read()
             if raw:
                 file_content = raw.decode("utf-8", errors="ignore")
@@ -94,7 +94,7 @@ async def analyze(
         )
 
         session_id = str(uuid.uuid4())
-        # FIX: Use the 'file_name' variable to avoid NoneType errors
+        # Use the 'file_name' variable to avoid NoneType errors
         session_store[session_id] = {
             "query": question,
             "file_content": file_content,
